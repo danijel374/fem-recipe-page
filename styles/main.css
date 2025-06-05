@@ -93,6 +93,7 @@ main {
   background-color: var(--stone-100);
   min-height: 100vh;
   min-height: 100dvh;
+  padding: var(--spacing-1600);
 }
 
 /* Recipe card */
@@ -166,6 +167,7 @@ main {
 
 .recipe__ingredients {
   padding-bottom: var(--spacing-300);
+  border-bottom: 1px solid var(--stone-150);
 }
 
 .recipe__ingredients-title {
@@ -191,6 +193,7 @@ main {
 }
 .recipe__instructions {
   padding-bottom: var(--spacing-300);
+  border-bottom: 1px solid var(--stone-150);
 }
 .recipe__instructions-title {
   color: var(--brown-800);
