@@ -26,7 +26,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### 🔗 Links
 
-- 💡 Solution URL: [Add solution URL here]()
+- 💡 Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-recipe-page-ZXQADtlvnY)
 - 🌐 Live Site URL: [Recipe page Live](https://danijel374.github.io/fem-recipe-page/)
 
 ---
