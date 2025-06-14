@@ -93,7 +93,7 @@ main {
   background-color: var(--stone-100);
   min-height: 100vh;
   min-height: 100dvh;
-  padding: var(--spacing-1600);
+  padding: clamp(0rem, calc(-2.817rem + 12.019vw), 8rem);
 }
 
 /* Recipe card */
